@@ -1,8 +1,8 @@
 <div align="center">
 
-### `shabul@github ~ $ ./contributions.sh`
+### `shabul@github ~ $ ./activity.sh`
 
-<img src="https://raw.githubusercontent.com/shabul/shabul/main/contrib-heatmap.svg?v=public-1" width="860" alt="Shabul's public GitHub contribution calendar for the past year" />
+<img src="https://raw.githubusercontent.com/shabul/shabul/main/contrib-heatmap.svg?v=portfolio-1" width="860" alt="Shabul's public GitHub activity calendar and public repository stats" />
 
 <br>
 
