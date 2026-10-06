@@ -1,20 +1,13 @@
 # Profile art maintenance
 
-The README embeds three self-contained SVGs. `info-card.svg` contains the short professional bio; `activity-card.svg` uses GitHub's public contribution calendar and public repository statistics; `search-card.svg` is a designed preview of a linked Google AI Mode answer. The graph uses public data only; the signed-in GitHub profile may also show private activity.
+The README embeds three self-contained SVGs. `featured-work.svg` highlights three public AI projects with verifiable code and model artifacts; `info-card.svg` contains the short professional bio; `search-card.svg` is a designed preview of a linked Google AI Mode answer. The model-release count comes from the five published LLMs listed in `shabul/model-foundry` and linked on Hugging Face. It does not include the in-progress ModernBERT project.
 
 To regenerate the static art locally:
 
 ```sh
 python3 scripts/make_info_card.py
+python3 scripts/make_featured_work_card.py
 python3 scripts/make_search_card.py
 ```
 
-To refresh the calendar manually:
-
-```sh
-python3 scripts/fetch_contributions.py
-python3 scripts/fetch_profile_stats.py
-python3 scripts/render_heatmap_svg.py
-```
-
-The scheduled GitHub Action runs the last three commands daily using only Python's standard library. It commits changes when the public data or SVG has changed. The displayed repository counts come from the public GitHub API; "updated" means the repository's latest push was in the displayed calendar year. To update the bio, edit `make_info_card.py` and regenerate its SVG.
+All three cards are static and use only Python's standard library for regeneration. To update the bio, edit `make_info_card.py` and regenerate its SVG. To change the featured projects, edit `make_featured_work_card.py` and regenerate the card.

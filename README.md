@@ -1,8 +1,10 @@
 <div align="center">
 
-### `shabul@github ~ $ ./activity.sh`
+### `shabul@github ~ $ ./selected-work.sh`
 
-<img src="https://raw.githubusercontent.com/shabul/shabul/main/activity-card.svg" width="860" alt="Shabul's public GitHub activity calendar and public repository stats" />
+<img src="https://raw.githubusercontent.com/shabul/shabul/main/featured-work.svg" width="860" alt="Selected public AI work: fine-tuned LLMs, Android-hosted inference, and local AI tooling" />
+
+[Model Foundry and its published models](https://github.com/shabul/model-foundry) · [Pocket Brain](https://github.com/shabul/pocket-brain) · [Claude Local API](https://github.com/shabul/claude-local-api)
 
 <br>
 
@@ -16,7 +18,7 @@
 
 I build and evaluate applied AI systems, from multi-agent workflows and retrieval to efficient language models.
 
-Explore [model-foundry](https://github.com/shabul/model-foundry), [LangChain and LangGraph notes](https://github.com/shabul/teach-langchain-and-langgraph), and [claude-local-api](https://github.com/shabul/claude-local-api).
+I also keep [LangChain and LangGraph learning notes](https://github.com/shabul/teach-langchain-and-langgraph).
 
 <br>
 
