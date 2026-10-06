@@ -2,7 +2,7 @@
 
 ### `shabul@github ~ $ ./activity.sh`
 
-<img src="https://raw.githubusercontent.com/shabul/shabul/main/contrib-heatmap.svg?v=portfolio-1" width="860" alt="Shabul's public GitHub activity calendar and public repository stats" />
+<img src="https://raw.githubusercontent.com/shabul/shabul/main/activity-card.svg" width="860" alt="Shabul's public GitHub activity calendar and public repository stats" />
 
 <br>
 

@@ -77,8 +77,8 @@ def main() -> None:
         '<text x="601" y="196" fill="#d9e8e8" font-family="monospace" font-size="12">years on GitHub</text>',
     ])
     parts.append('</svg>')
-    (ROOT / "contrib-heatmap.svg").write_text("\n".join(parts) + "\n", encoding="utf-8")
-    print("Rendered contrib-heatmap.svg")
+    (ROOT / "activity-card.svg").write_text("\n".join(parts) + "\n", encoding="utf-8")
+    print("Rendered activity-card.svg")
 
 
 if __name__ == "__main__":
