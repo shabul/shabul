@@ -1,11 +1,12 @@
 # Profile art maintenance
 
-The README embeds two self-contained SVGs. `info-card.svg` contains the short professional bio; `contrib-heatmap.svg` uses GitHub's public contribution calendar. Its total may differ from the signed-in GitHub profile, which can also show private activity.
+The README embeds three self-contained SVGs. `info-card.svg` contains the short professional bio; `contrib-heatmap.svg` uses GitHub's public contribution calendar; `search-card.svg` is a designed preview of a linked Google AI Mode answer. The graph's total may differ from the signed-in GitHub profile, which can also show private activity.
 
 To regenerate the static art locally:
 
 ```sh
 python3 scripts/make_info_card.py
+python3 scripts/make_search_card.py
 ```
 
 To refresh the calendar manually:

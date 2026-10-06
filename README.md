@@ -18,6 +18,16 @@ I build and evaluate applied AI systems, from multi-agent workflows and retrieva
 
 Explore [model-foundry](https://github.com/shabul/model-foundry), [LangChain and LangGraph notes](https://github.com/shabul/teach-langchain-and-langgraph), and [claude-local-api](https://github.com/shabul/claude-local-api).
 
+<br>
+
+### `shabul@github ~ $ google "Who is Shabul Hussain?"`
+
+<a href="https://share.google/aimode/or60EDGs4tYTwgXCk"><img src="https://raw.githubusercontent.com/shabul/shabul/main/search-card.svg?v=1" width="860" alt="Designed preview of a shared Google AI Mode result about Shabul Hussain Abdul" /></a>
+
+<sub>Designed preview of the <a href="https://share.google/aimode/or60EDGs4tYTwgXCk">shared AI Mode answer</a>. AI-generated answers can change.</sub>
+
+<br><br>
+
 [Portfolio](https://shabul.github.io/) · [LinkedIn](https://www.linkedin.com/in/shabul/) · [Email](mailto:abdul.shabul@outlook.com)
 
 </div>
