@@ -1,13 +1,5 @@
 <div align="center">
 
-### `shabul@github ~ $ ./selected-work.sh`
-
-<img src="https://raw.githubusercontent.com/shabul/shabul/main/featured-work.svg" width="860" alt="Selected public AI work: fine-tuned LLMs, Android-hosted inference, and local AI tooling" />
-
-[Model Foundry and its published models](https://github.com/shabul/model-foundry) · [Pocket Brain](https://github.com/shabul/pocket-brain) · [Claude Local API](https://github.com/shabul/claude-local-api)
-
-<br>
-
 ### `shabul@github ~ $ whoami`
 
 <a href="https://shabul.github.io/"><img src="https://raw.githubusercontent.com/shabul/shabul/main/info-card.svg?v=role-1" width="860" alt="About Shabul Abdul: senior applied AI and ML scientist at JPMorgan Chase" /></a>
@@ -19,6 +11,14 @@
 I build and evaluate applied AI systems, from multi-agent workflows and retrieval to efficient language models.
 
 I also keep [LangChain and LangGraph learning notes](https://github.com/shabul/teach-langchain-and-langgraph).
+
+<br>
+
+### `shabul@github ~ $ ./selected-work.sh`
+
+<img src="https://raw.githubusercontent.com/shabul/shabul/main/featured-work.svg" width="860" alt="Selected public AI work: fine-tuned LLMs, Android-hosted inference, and local AI tooling" />
+
+[Model Foundry and its published models](https://github.com/shabul/model-foundry) · [Pocket Brain](https://github.com/shabul/pocket-brain) · [Claude Local API](https://github.com/shabul/claude-local-api)
 
 <br>
 
