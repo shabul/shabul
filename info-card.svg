@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="320" viewBox="0 0 860 320" role="img" aria-labelledby="title desc">
 <title id="title">About Shabul Hussain Abdul</title>
-<desc id="desc">Senior Data Scientist at JPMorgan Chase. Building machine learning platforms, LLM products, and agentic AI systems in India.</desc>
+<desc id="desc">Shabul Abdul, Senior Applied AI and ML Scientist at JPMorgan Chase. Focused on agent systems, model evaluation, model efficiency, and retrieval.</desc>
 <rect width="860" height="320" rx="18" fill="#0d1722"/>
 <rect x=".5" y=".5" width="859" height="319" rx="17.5" fill="none" stroke="#274253"/>
 <circle cx="23" cy="22" r="4" fill="#f07178"/><circle cx="38" cy="22" r="4" fill="#e7b963"/><circle cx="53" cy="22" r="4" fill="#57c991"/>
@@ -8,20 +8,20 @@
 <line x1="0" y1="38" x2="860" y2="38" stroke="#274253"/>
 <line x1="322" y1="58" x2="322" y2="296" stroke="#274253"/>
 <g><text x="28" y="137" fill="#eaf6f3" font-family="monospace" font-size="51" font-weight="bold" letter-spacing="3">SHABUL</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.10s" fill="freeze"/></g>
-<g><text x="31" y="162" fill="#56dcb0" font-family="monospace" font-size="13" letter-spacing="3">HUSSAIN ABDUL</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.22s" fill="freeze"/></g>
+<g><text x="31" y="162" fill="#56dcb0" font-family="monospace" font-size="13" letter-spacing="3">ABDUL</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.22s" fill="freeze"/></g>
 <line x1="31" y1="184" x2="283" y2="184" stroke="#3b7d76"/>
-<g><text x="31" y="212" fill="#d9e8e8" font-family="monospace" font-size="13">Senior Data Scientist</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.34s" fill="freeze"/></g>
-<g><text x="31" y="237" fill="#91a8b5" font-family="monospace" font-size="12">Hyderabad / Bengaluru, India</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.44s" fill="freeze"/></g>
+<g><text x="31" y="212" fill="#d9e8e8" font-family="monospace" font-size="13">Applied AI / ML Scientist</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.34s" fill="freeze"/></g>
+<g><text x="31" y="237" fill="#91a8b5" font-family="monospace" font-size="12">Bengaluru, India</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.44s" fill="freeze"/></g>
 <g><text x="31" y="289" fill="#56dcb0" font-family="monospace" font-size="12">shabul.github.io ↗</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.30s" fill="freeze"/></g>
-<g><text x="351" y="77" fill="#6e99a9" font-family="monospace" font-size="11">PROFILE</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.26s" fill="freeze"/></g>
-<g><text x="351" y="106" fill="#eaf6f3" font-family="monospace" font-size="18" font-weight="bold">Building AI that works in production.</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.36s" fill="freeze"/></g>
-<g><text x="351" y="134" fill="#7cd5bf" font-family="monospace" font-size="11">NOW</text><text x="454" y="134" fill="#d9e8e8" font-family="monospace" font-size="12">JPMorgan Chase · Data Science</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.48s" fill="freeze"/></g>
-<g><text x="351" y="156" fill="#7cd5bf" font-family="monospace" font-size="11">BEFORE</text><text x="454" y="156" fill="#d9e8e8" font-family="monospace" font-size="12">Amazon · TCS</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.57s" fill="freeze"/></g>
-<g><text x="351" y="178" fill="#7cd5bf" font-family="monospace" font-size="11">EXPERIENCE</text><text x="454" y="178" fill="#d9e8e8" font-family="monospace" font-size="12">7+ years in ML &amp; data science</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.66s" fill="freeze"/></g>
-<g><text x="351" y="200" fill="#7cd5bf" font-family="monospace" font-size="11">AWARD</text><text x="454" y="200" fill="#d9e8e8" font-family="monospace" font-size="12">Amazon 2024 Innovista winner</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.75s" fill="freeze"/></g>
-<line x1="351" y1="216" x2="830" y2="216" stroke="#274253"/>
-<g><text x="351" y="238" fill="#6e99a9" font-family="monospace" font-size="11">CURRENT FOCUS</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.89s" fill="freeze"/></g>
-<g><text x="351" y="260" fill="#d9e8e8" font-family="monospace" font-size="12"><tspan fill="#56dcb0">&gt;</tspan> LLM products &amp; agentic workflows</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.98s" fill="freeze"/></g>
-<g><text x="351" y="281" fill="#d9e8e8" font-family="monospace" font-size="12"><tspan fill="#56dcb0">&gt;</tspan> Retrieval, GenAI &amp; trusted automation</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.08s" fill="freeze"/></g>
-<g><text x="351" y="302" fill="#d9e8e8" font-family="monospace" font-size="12"><tspan fill="#56dcb0">&gt;</tspan> ML platforms at enterprise scale</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.18s" fill="freeze"/></g>
+<g><text x="351" y="77" fill="#6e99a9" font-family="monospace" font-size="11">CURRENT ROLE</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.26s" fill="freeze"/></g>
+<g><text x="351" y="106" fill="#eaf6f3" font-family="monospace" font-size="18" font-weight="bold">Sr. Applied AI/ML Scientist</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.36s" fill="freeze"/></g>
+<g><text x="351" y="130" fill="#56dcb0" font-family="monospace" font-size="12">JPMorgan Chase</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.44s" fill="freeze"/></g>
+<line x1="351" y1="150" x2="830" y2="150" stroke="#274253"/>
+<g><text x="351" y="174" fill="#6e99a9" font-family="monospace" font-size="11">WHAT I WORK ON</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.52s" fill="freeze"/></g>
+<g><text x="351" y="199" fill="#7cd5bf" font-family="monospace" font-size="11">Agent systems</text><text x="492" y="199" fill="#d9e8e8" font-family="monospace" font-size="12">Multi-agent workflows · MCP</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.62s" fill="freeze"/></g>
+<g><text x="351" y="221" fill="#7cd5bf" font-family="monospace" font-size="11">Model quality</text><text x="492" y="221" fill="#d9e8e8" font-family="monospace" font-size="12">LLM evals · guardrails · prompt opt.</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.72s" fill="freeze"/></g>
+<g><text x="351" y="243" fill="#7cd5bf" font-family="monospace" font-size="11">Model efficiency</text><text x="492" y="243" fill="#d9e8e8" font-family="monospace" font-size="12">LoRA · quantization · distillation</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.82s" fill="freeze"/></g>
+<g><text x="351" y="265" fill="#7cd5bf" font-family="monospace" font-size="11">Retrieval</text><text x="492" y="265" fill="#d9e8e8" font-family="monospace" font-size="12">RAG · vector &amp; graph search</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.92s" fill="freeze"/></g>
+<line x1="351" y1="278" x2="830" y2="278" stroke="#274253"/>
+<g><text x="351" y="300" fill="#91a8b5" font-family="monospace" font-size="11">Previously: Amazon · TCS  |  7+ years in ML</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.10s" fill="freeze"/></g>
 </svg>

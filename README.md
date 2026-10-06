@@ -8,13 +8,15 @@
 
 ### `shabul@github ~ $ whoami`
 
-<a href="https://shabul.github.io/"><img src="./info-card.svg" width="860" alt="About Shabul: senior data scientist building practical AI systems" /></a>
+<a href="https://shabul.github.io/"><img src="./info-card.svg?v=3" width="860" alt="About Shabul Abdul: senior applied AI and ML scientist at JPMorgan Chase" /></a>
 
 <br>
 
-`Machine learning` · `LLMs & agents` · `Generative AI` · `Production systems`
+`Agent systems` · `LLM evaluation` · `Model optimization` · `Retrieval`
 
-I build AI systems that make complex work simpler, from retrieval and agentic workflows to reliable machine learning platforms.
+I build and evaluate applied AI systems, from multi-agent workflows and retrieval to efficient language models.
+
+Explore [model-foundry](https://github.com/shabul/model-foundry), [LangChain and LangGraph notes](https://github.com/shabul/teach-langchain-and-langgraph), and [claude-local-api](https://github.com/shabul/claude-local-api).
 
 [Portfolio](https://shabul.github.io/) · [LinkedIn](https://www.linkedin.com/in/shabul/) · [Email](mailto:abdul.shabul@outlook.com)
 
