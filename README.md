@@ -2,13 +2,13 @@
 
 ### `shabul@github ~ $ ./contributions.sh`
 
-<img src="./contrib-heatmap.svg?v=3" width="860" alt="Shabul's public GitHub contribution calendar for the past year" />
+<img src="https://raw.githubusercontent.com/shabul/shabul/main/contrib-heatmap.svg?v=public-1" width="860" alt="Shabul's public GitHub contribution calendar for the past year" />
 
 <br>
 
 ### `shabul@github ~ $ whoami`
 
-<a href="https://shabul.github.io/"><img src="./info-card.svg?v=3" width="860" alt="About Shabul Abdul: senior applied AI and ML scientist at JPMorgan Chase" /></a>
+<a href="https://shabul.github.io/"><img src="https://raw.githubusercontent.com/shabul/shabul/main/info-card.svg?v=role-1" width="860" alt="About Shabul Abdul: senior applied AI and ML scientist at JPMorgan Chase" /></a>
 
 <br>
 
