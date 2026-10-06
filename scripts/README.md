@@ -1,6 +1,6 @@
 # Profile art maintenance
 
-The README embeds two self-contained SVGs. `info-card.svg` contains the short professional bio; `contrib-heatmap.svg` uses GitHub's public contribution calendar.
+The README embeds two self-contained SVGs. `info-card.svg` contains the short professional bio; `contrib-heatmap.svg` uses GitHub's public contribution calendar. Its total may differ from the signed-in GitHub profile, which can also show private activity.
 
 To regenerate the static art locally:
 

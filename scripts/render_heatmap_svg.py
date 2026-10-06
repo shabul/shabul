@@ -24,8 +24,8 @@ def main() -> None:
 
     parts = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="860" height="224" viewBox="0 0 860 224" role="img" aria-labelledby="title desc">',
-        '<title id="title">Shabul\'s GitHub contributions</title>',
-        f'<desc id="desc">{payload["total"]} contributions across {payload["active_days"]} active days in the past year, through {escape(payload["through"])}.</desc>',
+        '<title id="title">Shabul\'s public GitHub contributions</title>',
+        f'<desc id="desc">{payload["total"]} public contributions across {payload["active_days"]} active days in the past year, through {escape(payload["through"])}.</desc>',
         '<rect width="860" height="224" rx="18" fill="#0d1722"/>',
         '<rect x=".5" y=".5" width="859" height="223" rx="17.5" fill="none" stroke="#274253"/>',
         '<circle cx="23" cy="22" r="4" fill="#f07178"/><circle cx="38" cy="22" r="4" fill="#e7b963"/><circle cx="53" cy="22" r="4" fill="#57c991"/>',
@@ -63,7 +63,7 @@ def main() -> None:
 
     parts.extend([
         '<line x1="19" y1="165" x2="841" y2="165" stroke="#274253"/>',
-        f'<text x="23" y="190" fill="#e9f3f3" font-family="monospace" font-size="15" font-weight="bold">{payload["total"]:,} contributions</text>',
+        f'<text x="23" y="190" fill="#e9f3f3" font-family="monospace" font-size="15" font-weight="bold">{payload["total"]:,} public contributions</text>',
         f'<text x="23" y="208" fill="#91a8b5" font-family="monospace" font-size="11">{payload["active_days"]} active days · through {escape(payload["through"])}</text>',
         '<text x="724" y="201" fill="#91a8b5" font-family="monospace" font-size="10">less</text>',
     ])

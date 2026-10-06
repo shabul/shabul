@@ -2,7 +2,7 @@
 
 ### `shabul@github ~ $ ./contributions.sh`
 
-<img src="./contrib-heatmap.svg" width="860" alt="Shabul's GitHub contribution calendar for the past year" />
+<img src="./contrib-heatmap.svg?v=2" width="860" alt="Shabul's public GitHub contribution calendar for the past year" />
 
 <br>
 
