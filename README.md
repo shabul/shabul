@@ -20,6 +20,12 @@ Explore [model-foundry](https://github.com/shabul/model-foundry), [LangChain and
 
 <br>
 
+### `shabul@github ~ $ ./explore-ai.sh`
+
+[Launch my interactive AI/ML terminal ↗](https://shabul.github.io/terminal/) · Try `systems`, `projects`, `skills`, or `career`.
+
+<br>
+
 ### `shabul@github ~ $ google "Who is Shabul Hussain?"`
 
 <a href="https://share.google/aimode/or60EDGs4tYTwgXCk"><img src="https://raw.githubusercontent.com/shabul/shabul/main/search-card.svg?v=1" width="860" alt="Designed preview of a shared Google AI Mode result about Shabul Hussain Abdul" /></a>
