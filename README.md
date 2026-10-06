@@ -1,5 +1,26 @@
-# Shabul
+<div align="center">
 
-Tiny placeholder repo for experiments. Say hey on [LinkedIn](https://www.linkedin.com/in/shabul/) or browse more at [shabul.github.io](https://shabul.github.io/). If you want to see what comes next, follow [@shabul](https://github.com/shabul).
+### `shabul@github ~ $ ./contributions.sh`
 
-SEO: Shabul Hussain Abdul – Amazon ML/LLM/Gen AI engineer building AI agents and automation. Hashtags: #ShabulHussainAbdul #MachineLearningEngineer #LLMEngineer #AIAgents
+<img src="./contrib-heatmap.svg" width="860" alt="Shabul's GitHub contribution calendar for the past year" />
+
+<br>
+
+### `shabul@github ~ $ whoami`
+
+<table align="center">
+  <tr>
+    <td valign="top"><a href="https://shabul.github.io/"><img src="./shabul-ascii.svg" width="335" alt="Animated ASCII portrait of Shabul Hussain Abdul" /></a></td>
+    <td valign="top"><a href="https://shabul.github.io/"><img src="./info-card.svg" width="490" alt="About Shabul: senior data scientist building practical AI systems" /></a></td>
+  </tr>
+</table>
+
+<br>
+
+`Machine learning` · `LLMs & agents` · `Generative AI` · `Production systems`
+
+I build AI systems that make complex work simpler, from retrieval and agentic workflows to reliable machine learning platforms.
+
+[Portfolio](https://shabul.github.io/) · [LinkedIn](https://www.linkedin.com/in/shabul/) · [Email](mailto:abdul.shabul@outlook.com)
+
+</div>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="436" viewBox="0 0 505 436" role="img" aria-labelledby="title desc">
+<title id="title">About Shabul Hussain Abdul</title>
+<desc id="desc">Senior Data Scientist at JPMorgan Chase. Building machine learning platforms, LLM products, and agentic AI systems in India.</desc>
+<rect width="505" height="436" rx="18" fill="#0d1722"/>
+<rect x=".5" y=".5" width="504" height="435" rx="17.5" fill="none" stroke="#274253"/>
+<circle cx="23" cy="22" r="4" fill="#f07178"/><circle cx="38" cy="22" r="4" fill="#e7b963"/><circle cx="53" cy="22" r="4" fill="#57c991"/>
+<text x="75" y="26" fill="#91a8b5" font-family="monospace" font-size="12">shabul@github:~$ whoami</text>
+<line x1="0" y1="38" x2="505" y2="38" stroke="#274253"/>
+<g><text x="24" y="79" fill="#eaf6f3" font-family="monospace" font-size="22" font-weight="bold">Shabul Hussain Abdul</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.10s" fill="freeze"/></g>
+<g><text x="24" y="103" fill="#56dcb0" font-family="monospace" font-size="12">Senior Data Scientist · JPMorgan Chase</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.20s" fill="freeze"/></g>
+<line x1="24" y1="122" x2="481" y2="122" stroke="#274253"/>
+<g><text x="24" y="148" fill="#6e99a9" font-family="monospace" font-size="11">PROFILE</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.30s" fill="freeze"/></g>
+<g><text x="24" y="174" fill="#7cd5bf" font-family="monospace" font-size="12">Location</text><text x="132" y="174" fill="#d9e8e8" font-family="monospace" font-size="12">Hyderabad / Bengaluru, India</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.38s" fill="freeze"/></g>
+<g><text x="24" y="197" fill="#7cd5bf" font-family="monospace" font-size="12">Previously</text><text x="132" y="197" fill="#d9e8e8" font-family="monospace" font-size="12">Amazon · TCS</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.48s" fill="freeze"/></g>
+<g><text x="24" y="220" fill="#7cd5bf" font-family="monospace" font-size="12">Experience</text><text x="132" y="220" fill="#d9e8e8" font-family="monospace" font-size="12">7+ years in ML &amp; data science</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.58s" fill="freeze"/></g>
+<g><text x="24" y="243" fill="#7cd5bf" font-family="monospace" font-size="12">Recognition</text><text x="132" y="243" fill="#d9e8e8" font-family="monospace" font-size="12">Amazon 2024 Innovista winner</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.68s" fill="freeze"/></g>
+<line x1="24" y1="257" x2="481" y2="257" stroke="#274253"/>
+<g><text x="24" y="283" fill="#6e99a9" font-family="monospace" font-size="11">CURRENT FOCUS</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.84s" fill="freeze"/></g>
+<g><text x="24" y="309" fill="#d9e8e8" font-family="monospace" font-size="13"><tspan fill="#56dcb0">&gt;</tspan> LLM products &amp; agentic workflows</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.94s" fill="freeze"/></g>
+<g><text x="24" y="333" fill="#d9e8e8" font-family="monospace" font-size="13"><tspan fill="#56dcb0">&gt;</tspan> Retrieval, GenAI &amp; trusted automation</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.04s" fill="freeze"/></g>
+<g><text x="24" y="357" fill="#d9e8e8" font-family="monospace" font-size="13"><tspan fill="#56dcb0">&gt;</tspan> Reliable ML platforms at enterprise scale</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.14s" fill="freeze"/></g>
+<line x1="24" y1="372" x2="481" y2="372" stroke="#274253"/>
+<g><text x="24" y="400" fill="#a3b9c2" font-family="monospace" font-size="12">Building AI that earns its place in production.</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.28s" fill="freeze"/></g>
+<g><text x="24" y="422" fill="#56dcb0" font-family="monospace" font-size="11">shabul.github.io  ↗</text><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.38s" fill="freeze"/></g>
+</svg>
