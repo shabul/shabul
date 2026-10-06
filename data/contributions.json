@@ -1,8 +1,8 @@
 {
   "username": "shabul",
   "through": "2026-10-06",
-  "total": 134,
-  "active_days": 28,
+  "total": 148,
+  "active_days": 33,
   "days": [
     {
       "date": "2025-10-05",
@@ -282,7 +282,7 @@
     {
       "date": "2025-11-29",
       "level": 4,
-      "count": 27
+      "count": 29
     },
     {
       "date": "2025-11-30",
@@ -1696,8 +1696,8 @@
     },
     {
       "date": "2026-09-08",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2026-09-09",
@@ -1736,18 +1736,18 @@
     },
     {
       "date": "2026-09-16",
-      "level": 0,
-      "count": 0
+      "level": 2,
+      "count": 4
     },
     {
       "date": "2026-09-17",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2026-09-18",
-      "level": 0,
-      "count": 0
+      "level": 2,
+      "count": 5
     },
     {
       "date": "2026-09-19",
@@ -1831,8 +1831,8 @@
     },
     {
       "date": "2026-10-05",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2026-10-06",
