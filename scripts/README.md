@@ -1,12 +1,10 @@
 # Profile art maintenance
 
-The README embeds three self-contained SVGs. `shabul-ascii.svg` uses the public GitHub avatar; `info-card.svg` contains the short professional bio; `contrib-heatmap.svg` uses GitHub's public contribution calendar.
+The README embeds two self-contained SVGs. `info-card.svg` contains the short professional bio; `contrib-heatmap.svg` uses GitHub's public contribution calendar.
 
 To regenerate the static art locally:
 
 ```sh
-python3 -m pip install Pillow
-python3 scripts/make_ascii_svg.py
 python3 scripts/make_info_card.py
 ```
 

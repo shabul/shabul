@@ -8,12 +8,7 @@
 
 ### `shabul@github ~ $ whoami`
 
-<table align="center">
-  <tr>
-    <td valign="top"><a href="https://shabul.github.io/"><img src="./shabul-ascii.svg" width="335" alt="Animated ASCII portrait of Shabul Hussain Abdul" /></a></td>
-    <td valign="top"><a href="https://shabul.github.io/"><img src="./info-card.svg" width="490" alt="About Shabul: senior data scientist building practical AI systems" /></a></td>
-  </tr>
-</table>
+<a href="https://shabul.github.io/"><img src="./info-card.svg" width="860" alt="About Shabul: senior data scientist building practical AI systems" /></a>
 
 <br>
 
