@@ -18,7 +18,7 @@ def text(x: int, y: int, value: str, *, color: str, size: int, weight: str = "no
 
 def main() -> None:
     projects = [
-        ("01 / MODEL FOUNDRY", "Fine-tuned LLMs", "5 public model releases", "Qwen2.5 · Gemma 2 · Mistral"),
+        ("01 / MODEL FOUNDRY", "Fine-tuned LLMs", "5 trained deep-neural nets", "Qwen2.5 · Gemma 2 · Mistral"),
         ("02 / POCKET BRAIN", "LLM on Android", "Gemma 2B served as an API", "Termux · self-hosted"),
         ("03 / CLAUDE LOCAL API", "Tools via Unix socket", "CLI access for local scripts", "Python · local tooling"),
     ]
@@ -31,7 +31,7 @@ def main() -> None:
         '<circle cx="23" cy="22" r="4" fill="#f07178"/><circle cx="38" cy="22" r="4" fill="#e7b963"/><circle cx="53" cy="22" r="4" fill="#57c991"/>',
         text(75, 26, "~/work/proof-of-build.ai", color="#91a8b5", size=12),
         '<line x1="0" y1="38" x2="860" y2="38" stroke="#274253"/>',
-        text(25, 81, "Models trained. Systems made useful.", color="#e9f3f3", size=27, weight="bold"),
+        text(25, 81, "Deep neural nets trained. Systems made useful.", color="#e9f3f3", size=27, weight="bold"),
         text(26, 107, "Public projects with code, model artifacts, and reproducible details.", color="#91a8b5", size=12),
     ]
     for index, (eyebrow, heading, detail, tools) in enumerate(projects):
