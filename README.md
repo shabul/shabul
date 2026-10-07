@@ -16,7 +16,7 @@ I also keep [LangChain and LangGraph learning notes](https://github.com/shabul/t
 
 ### `shabul@github ~ $ ./selected-work.sh`
 
-<img src="https://raw.githubusercontent.com/shabul/shabul/main/featured-work.svg" width="860" alt="Selected public AI work: fine-tuned LLMs, Android-hosted inference, and local AI tooling" />
+<img src="https://raw.githubusercontent.com/shabul/shabul/main/featured-work.svg?v=deep-neural-nets-1" width="860" alt="Selected public AI work: fine-tuned LLMs, Android-hosted inference, and local AI tooling" />
 
 [Model Foundry and its published models](https://github.com/shabul/model-foundry) · [Pocket Brain](https://github.com/shabul/pocket-brain) · [Claude Local API](https://github.com/shabul/claude-local-api)
 
